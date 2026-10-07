@@ -384,14 +384,19 @@
   "troca": "",
   "aceitaFinanciamento": true,
   "fotos": [
-   "https://raw.githubusercontent.com/neon-ventura/jbcaminhoes/main/uploads/iveco-415-cv-stralis-1791311466485.webp"
+   "https://raw.githubusercontent.com/neon-ventura/jbcaminhoes/main/uploads/iveco-415-cv-stralis-1791311466485.webp",
+   "https://raw.githubusercontent.com/neon-ventura/jbcaminhoes/main/uploads/whatsapp-image-2026-10-06-at-15-39-25-1791375602135.webp",
+   "https://raw.githubusercontent.com/neon-ventura/jbcaminhoes/main/uploads/whatsapp-image-2026-10-06-at-15-39-25-1-1791375618733.webp",
+   "https://raw.githubusercontent.com/neon-ventura/jbcaminhoes/main/uploads/whatsapp-image-2026-10-06-at-15-39-28-1791375651272.webp",
+   "https://raw.githubusercontent.com/neon-ventura/jbcaminhoes/main/uploads/whatsapp-image-2026-10-06-at-15-39-27-1791375662077.webp",
+   "https://raw.githubusercontent.com/neon-ventura/jbcaminhoes/main/uploads/whatsapp-image-2026-10-06-at-15-39-26-1-1791375670272.webp"
   ],
   "publicado": true,
   "vendido": false,
   "destaque": false,
   "ordem": 12,
   "criado": "2026-10-06T18:33:27.488Z",
-  "atualizado": "2026-10-06T18:37:48.427Z",
+  "atualizado": "2026-10-07T12:21:23.439Z",
   "ano": "2010",
   "anoModelo": "2011",
   "km": "",
